@@ -1,0 +1,5 @@
+--- From p. 16 ----------------------------------------------------------------
+
+`whois` is not available on the `msfconsole`. However, the `whois`
+command line tool for Ubuntu is able to list most of the same information.
+
