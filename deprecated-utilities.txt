@@ -1,0 +1,6 @@
+p. 9 mentions MSFcli, which appears to be deprecated
+- https://www.rapid7.com/blog/post/2015/07/10/msfcli-is-no-longer-available-in-metasploit/
+
+p. 12, 13 mention MSFPayload and MSFEncode, which also appear to be deprecated
+- https://www.rapid7.com/blog/post/2014/12/09/good-bye-msfpayload-and-msfencode/
+
