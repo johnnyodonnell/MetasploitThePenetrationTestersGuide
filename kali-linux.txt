@@ -1,0 +1,4 @@
+Install all default tools:
+  - https://www.kali.org/docs/general-use/metapackages/
+  - This is necessary for the wsl version of Kali Linux
+
